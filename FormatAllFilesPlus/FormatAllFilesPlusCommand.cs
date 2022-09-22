@@ -88,7 +88,8 @@ namespace FormatAllFilesPlus
                     {
                         _outputWindow.WriteLine("This is not text file.");
                     }
-                } else
+                }
+                else
                 {
                     _outputWindow.WriteLine("This is not text file.");
                 }
